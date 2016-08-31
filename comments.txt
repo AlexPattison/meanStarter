@@ -1,0 +1,1 @@
+package.json - The main property inside of package.json is responsible for indicating what the output of require will be. I'm still not fully sure what this means.
